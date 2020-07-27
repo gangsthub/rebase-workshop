@@ -1,3 +1,3 @@
 export const hola = () => {
-  console.log('Hola')
+  console.log('Hi from master')
 }
