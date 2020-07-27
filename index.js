@@ -1,3 +1,3 @@
 export const hola = () => {
-  console.log('Hi from master')
+  console.log('Hola desde la rama')
 }
